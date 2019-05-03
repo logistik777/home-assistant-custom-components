@@ -1,0 +1,8 @@
+{
+    "domain": "local_tuya",
+    "name": "Custom Local Integration for Tuya Switch",
+    "documentation": "https://www.adrianoamalfi.com",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["pytuya==7.0.2"]
+  }
