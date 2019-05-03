@@ -45,6 +45,11 @@ Configuration variables:
 - **local_key** (*Required*): The Local Key of switch [How-to](#Linking-a-Tuya-Device)
 - **device_id** (*Required*): The Device Id [How-to](#Linking-a-Tuya-Device)
 
+
+### Screenshot
+![alt text](https://raw.githubusercontent.com/adrianoamalfi/home-assistant-custom-components/master/screenshots/local_tuya.png "Screenshot")
+
+
 ### Get the local_key & device_id
 #### Linking a Tuya Device
 
