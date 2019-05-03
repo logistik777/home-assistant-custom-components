@@ -40,10 +40,10 @@ switch:
 
 Configuration variables:
 
-- **name** (*Optional*): Name of the device. (default = 'Toon Thermostat')
+- **name** (*Optional*): Name of the device.
 - **host** (*Required*): The hostname or IP address on which the Switch can be reached.
-- **local_key** (*Required*): The hostname or IP address on which the Switch can be reached.
-- **device_id** (*Required*): The hostname or IP address on which the Switch can be reached.
+- **local_key** (*Required*): The Local Key of switch [How-to](#Linking-a-Tuya-Device)
+- **device_id** (*Required*): The Device Id [How-to](#Linking-a-Tuya-Device)
 
 ### Get the local_key & device_id
 #### Linking a Tuya Device
