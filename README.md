@@ -47,7 +47,7 @@ Configuration variables:
 
 
 ### Screenshot
-![alt text](https://raw.githubusercontent.com/adrianoamalfi/home-assistant-custom-components/master/screenshots/local_tuya.png "Screenshot")
+![alt text](https://github.com/adrianoamalfi/home-assistant-custom-components/raw/master/screenshoots/local_tuya.PNG "Screenshot")
 
 
 ### Get the local_key & device_id
